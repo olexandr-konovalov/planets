@@ -4,6 +4,7 @@ Cold and dry, but everything is my favourite colour.
 The 2moons may be a problem for Wolfman :-(
 But the Mummy will appreciate the lack of humidity.
 Alternatively, we can try to go to Venus!
+Venus is the 2nd planet from the Sun, so it can be very hot there.
 See the file venus.txt
 
 References
